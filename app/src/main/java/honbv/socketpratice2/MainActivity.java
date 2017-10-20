@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onPointerCaptureChanged(boolean hasCapture) {
+        //Hello
 
     }
 
